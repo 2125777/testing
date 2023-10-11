@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
 
                     } else {
-                        updateTextBoxFromThread("Sorry, there's a problem with the server")
+                        updateTextBoxFromThread("Sorry, there's a problem with the server berchandyaaaa")
                     }
 
                 } else {
